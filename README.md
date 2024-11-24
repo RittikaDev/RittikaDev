@@ -16,6 +16,6 @@ A thirst for software engineering and gathering knowledge everyday. Every projec
 
 ### 📊 Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=RittikaDev&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RittikaDev&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=RittikaDev&theme=buefy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RittikaDev&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
