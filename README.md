@@ -1,5 +1,5 @@
 # Rittika Dev
-
+ 
 **`Software Developer`** 
 
 A thirst for software engineering and gathering knowledge everyday. Every project is crafted from the ground up—starting with planning and design, and culminating in innovative solutions to real-world challenges
