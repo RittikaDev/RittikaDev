@@ -1,3 +1,5 @@
+![github-header-image (1)](https://github.com/user-attachments/assets/f574752a-1cb8-40b9-9c5b-be90b090141d)
+
 ## Rittika Dev
  
 **`Software Developer`**
