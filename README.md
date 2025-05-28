@@ -43,10 +43,10 @@ A thirst for software engineering and gathering knowledge everyday. Every projec
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RittikaDev&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RittikaDev&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-👀 Overview
-💼 I’m currently working at KDS Group of Industries
-🛠️ Working primarily with Angular, .NET Core, Oracle, and occasionally SQL Server
-🌱 Currently exploring Next.js, Prisma, and PostgreSQL to grow as a full-stack developer
-💬 Ask me about web development, enterprise applications, and databases
-📫 Reach me at: rittika.dev@gmail.com
-⚡ Fun fact: I'm passionate about building clean, user-friendly tools that simplify complex workflows
+### 👀 Overview
+- 💼 I’m currently working at KDS Group of Industries
+- 🛠️ Working primarily with Angular, .NET Core, Oracle, and occasionally SQL Server
+- 🌱 Currently exploring Next.js, Prisma, and PostgreSQL to grow as a full-stack developer
+- 💬 Ask me about web development, enterprise applications, and databases
+- 📫 Reach me at: rittika.dev@gmail.com
+- ⚡ Fun fact: I'm passionate about building clean, user-friendly tools that simplify complex workflows
